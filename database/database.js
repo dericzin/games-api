@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-const mongoDBConnection = "mongodb+srv://admin:admin@gamesapi.wnudsgw.mongodb.net/"
+const mongoDBConnection = ""
 
 
 const connectToMongoDB = () => {
